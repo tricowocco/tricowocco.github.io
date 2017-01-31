@@ -46,18 +46,6 @@ body {
   justify-content: center;
 }
 
-.banner_title {
-  font-family: "Playfair Display", serif;
-  color: #363636;
-  font-size: 75px;
-  font-weight: bold;
-  line-height: 100px;
-  max-width: 600px;
-  padding-top: 20px;
-  text-align: center;
-  text-transform: uppercase;
-}
-
 .banner_text {
   color: #F6F6F6;
   font-size: 26px;
