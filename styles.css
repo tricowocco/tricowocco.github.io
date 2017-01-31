@@ -284,6 +284,10 @@ td {
   line-height: 32px;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
 /* SPONSORS */
 
 .sponsors_background {
