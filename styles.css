@@ -191,10 +191,12 @@ a.button {
   padding: 45px 100px;
   text-decoration: none;
   text-transform: uppercase;
+  transition-duration: 0.4s;
 }
 
 a.button:hover {
-  background: #A090B4;
+  background: #5A4550;
+  color: #F7F7F7;
 }
 
 /*
