@@ -57,6 +57,7 @@ body {
 }
 
 .banner_hashtag {
+  color: #A090B4;
   font-size: 30px;
   font-weight: 800;
   padding-top: 40px;
@@ -70,7 +71,7 @@ body {
 }
 
 #socialicons .icon {
-    color: #F6F6F6;
+    color: #A090B4;
     display: inline-block;
     font-size: 65px;
     text-align: center;
@@ -118,7 +119,7 @@ body {
 .about_background {
   align-items: center;
   background-color: #D9BCDA;
-  color: #363636;
+  color: #F7F7F7;
   display: flex;
   flex-direction: column;  
   justify-content: center;
