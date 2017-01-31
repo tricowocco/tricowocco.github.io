@@ -314,3 +314,100 @@ td {
   text-align: justify;
   line-height: 32px;
 }
+
+/* FOR MOBILE */
+
+@media screen and (max-width : 480px)  {
+  .banner_background {
+  height: 700px;
+  padding-top: 0px;
+  }
+
+  ul {
+  width: 100%;
+  position: relative;
+  }
+
+  li {
+  display: block;
+  }
+
+  li a {
+  width: 100%;
+  }
+
+  .about_background {
+    padding-top: 60px;
+  }
+
+  .mission_background {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .registration_background {
+    padding-top: 60px;
+  }
+
+  .schedule_background {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .speakers_background {
+    padding-top: 60px;
+  }
+
+  .sponsors_background {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .about_title {
+    font-size: 3em;
+  }
+
+  .mission_title {
+    font-size: 3em;
+  }
+
+  .registration_title {
+    font-size: 3em;
+  }
+
+  .schedule_title {
+    font-size: 3em;
+  }
+
+  .speakers_title {
+    font-size: 4em;
+  }  
+
+  .sponsors_title {
+    font-size: 3em;
+  }
+
+  .about_text {
+    font-size: 18px;
+  }
+  
+  .mission_text {
+    font-size: 18px;
+  }
+  
+  .registration_text {
+    font-size: 18px;
+  }
+  
+  .schedule_text {
+    font-size: 18px;
+  }
+  
+  .speakers_text {
+    font-size: 18px;
+  }
+  
+  .sponsors_text {
+    font-size: 18px;
+  }
+}
