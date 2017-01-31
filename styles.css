@@ -145,6 +145,11 @@ body {
   line-height: 32px;
 }
 
+.about_footnote {
+  font-size: 14px;
+  font-style: italic;
+}
+
 /* REGISTRATION */
 
 /* SCHEDULE */
