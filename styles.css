@@ -238,13 +238,20 @@ a.button:hover {
 /* SCHEDULE - TABLE */
 
 td {
-  height: 50px;
-  padding: 15px;
+  height: 40px;
+  padding: 10px;
 }
 
 .table_title {
   font-weight: 700;
+  font-size: 30px;
   text-transform: uppercase;
+  text-align: center;
+}
+
+.table_time {
+  font-weight: 700;
+  text-align: right;
 }
 
 /* SPEAKERS */
