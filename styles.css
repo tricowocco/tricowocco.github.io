@@ -36,10 +36,10 @@ body {
   margin: 0;
 }
 
-.banner_background{
+.banner_background {
   padding-top: 50px;
   align-items: center;
-  background-color: #F6F6F6;
+  background-color: #D9BCDA;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -47,8 +47,7 @@ body {
 }
 
 .banner_text {
-  /* Come hack with stude: */
-  color: #000000;
+  color: #F6F6F6;
   font-size: 36px;
   font-weight: 300;
   line-height: 42px;
@@ -58,6 +57,24 @@ body {
 }
 
 .banner_hashtag {
+}
+
+/* SOCIALS */
+
+#socialicons {
+    text-align: center;
+}
+
+#socialicons .icon {
+    color: #F6F6F6;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 6px 5px;
+}
+
+#socialicons .icon:hover {
+    color: #363636;
 }
 
 /* MISSION */
