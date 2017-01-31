@@ -274,6 +274,14 @@ td {
   text-align: center;
 }
 
+.workshop_title {
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  /* margin-bottom: 25px; */
+}
+
 .workshops_text {
   flex: 1;
   font-size: 20px;
@@ -284,27 +292,8 @@ td {
   line-height: 32px;
 }
 
-.workshop_container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex-flow: column wrap;
-  padding-left: 100px;
-  padding-right: 100px;
-  height: 1450px;
-}
-
-.container_image {
+.img_circle {
   border-radius: 50%;
-  width: 50%;
-}
-
-.container_title {
-  font-weight: 700;
-  font-size: 30px;
-  text-transform: uppercase;
-  text-align: center;
-  /* margin-bottom: 25px; */
 }
 
 /* SPONSORS */
