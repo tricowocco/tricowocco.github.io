@@ -235,6 +235,18 @@ a.button:hover {
   font-weight: 700;
 }
 
+/* SCHEDULE - TABLE */
+
+td {
+  height: 50px;
+  padding: 15px;
+}
+
+.table_title {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
 /* SPEAKERS */
 
 .speakers_background {
