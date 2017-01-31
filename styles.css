@@ -178,7 +178,7 @@ body {
 a.button {
   appearance: none;
   background: #F4E5E8;
-  border-radius: 5px;
+  border-radius: 0px;
   border: solid 2px #F4E5E8;
   box-shadow: none;
   color: #363636;
@@ -188,7 +188,7 @@ a.button {
   letter-spacing: -1.07;
   line-height: 1.8;
   margin-top: 40px;
-  padding: 50px;
+  padding: 50px 100px;
   text-decoration: none;
   text-transform: uppercase;
 }
