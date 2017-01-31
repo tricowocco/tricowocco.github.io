@@ -177,19 +177,20 @@ body {
 
 a.button {
   appearance: none;
-  background: #F0E7F1;
+  background: #F4E5E8;
   border-radius: 5px;
-  border: solid 2px #00CECB;
+  border: solid 2px #F4E5E8;
   box-shadow: none;
-  color: #EEEEEE;
+  color: #363636;
   display: inline-block;
   font-size: 100px;
-  font-weight: 300;
+  font-weight: 800;
   letter-spacing: -1.07;
   line-height: 1.8;
   margin-top: 40px;
-  padding: 0 20px;
+  padding: 50px;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 /*
