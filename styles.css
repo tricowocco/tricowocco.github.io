@@ -1,0 +1,73 @@
+/* NAVIGATION*/
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  background-color: #363636;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  text-align: center;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  float: center;
+}
+
+li a {
+  display: inline-block;
+  color: #F6F6F6;
+  text-decoration: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 18%;
+}
+
+li a:hover {
+  background-color: #F78284;
+}
+
+/* HOME */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+.banner_background{
+  padding-top: 50px;
+  align-items: center;
+  background-color: #F6F6F6;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.banner_text {
+  /* Come hack with stude: */
+  color: #000000;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 42px;
+  max-width: 600px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.banner_hashtag {
+}
+
+/* MISSION */
+
+/* ABOUT */
+
+/* REGISTRATION */
+
+/* SCHEDULE */
+
+/* SPEAKERS */
+
+/* SPONSORS */
