@@ -221,7 +221,7 @@ body {
 
 .speakers_background {
   align-items: center;
-  background-color: #F0E7F1;
+  background-color: #F4E5E8;
   color: #363636;
   display: flex;
   flex-direction: column;  
@@ -253,7 +253,7 @@ body {
 
 .sponsors_background {
   align-items: center;
-  background-color: #F4E5E8;
+  background-color: #F0E7F1;
   color: #363636;
   display: flex;
   flex-direction: column;  
