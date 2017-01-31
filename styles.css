@@ -155,6 +155,36 @@ body {
 
 /* REGISTRATION */
 
+.registration_background {
+  align-items: center;
+  background-color: #5A4550;
+  color: #F7F7F7;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+
+.registration_title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 1em;
+  max-width: 800px;
+  text-align: center;
+}
+
+.registration_text {
+  flex: 1;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 800px;
+  margin-top: 40px;
+  text-align: justify;
+  line-height: 32px;
+}
+
 /* SCHEDULE */
 
 /* SPEAKERS */
