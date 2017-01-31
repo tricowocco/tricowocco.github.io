@@ -48,7 +48,7 @@ body {
 
 .banner_text {
   color: #F6F6F6;
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 42px;
   max-width: 600px;
@@ -57,7 +57,7 @@ body {
 }
 
 .banner_hashtag {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 800;
   padding-top: 40px;
   text-transform: uppercase;
@@ -72,7 +72,7 @@ body {
 #socialicons .icon {
     color: #F6F6F6;
     display: inline-block;
-    font-size: 55px;
+    font-size: 65px;
     text-align: center;
     margin: 0 6px 5px;
 }
