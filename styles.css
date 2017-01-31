@@ -251,7 +251,7 @@ body {
 
 /* SPONSORS */
 
-.speakers_background {
+.sponsors_background {
   align-items: center;
   background-color: #F4E5E8;
   color: #363636;
@@ -262,7 +262,7 @@ body {
   padding: 40px;
 }
 
-.speakers_title {
+.sponsors_title {
   font-family: "Playfair Display", sans-serif;
   font-size: 5em;
   font-weight: 700;
@@ -271,7 +271,7 @@ body {
   text-align: center;
 }
 
-.speakers_text {
+.sponsors_text {
   flex: 1;
   font-size: 20px;
   font-weight: 300;
