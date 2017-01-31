@@ -39,7 +39,7 @@ body {
 .banner_background {
   padding-top: 50px;
   align-items: center;
-  background-color: #D9BCDA;
+  background-color: #F0E7F1;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -47,7 +47,7 @@ body {
 }
 
 .banner_text {
-  color: #F6F6F6;
+  color: #363636;
   font-size: 20px;
   font-weight: 300;
   line-height: 42px;
@@ -117,7 +117,7 @@ body {
 
 .about_background {
   align-items: center;
-  background-color: #F0E7F1;
+  background-color: #D9BCDA;
   color: #363636;
   display: flex;
   flex-direction: column;  
