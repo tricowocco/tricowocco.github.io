@@ -187,6 +187,96 @@ body {
 
 /* SCHEDULE */
 
+.schedule_background {
+  align-items: center;
+  background-color: #A090B4;
+  color: #F7F7F7;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+
+.schedule_title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 1em;
+  max-width: 800px;
+  text-align: center;
+}
+
+.schedule_text {
+  flex: 1;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 800px;
+  margin-top: 40px;
+  text-align: justify;
+  line-height: 32px;
+}
+
 /* SPEAKERS */
 
+.speakers_background {
+  align-items: center;
+  background-color: #F0E7F1;
+  color: #363636;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+
+.speakers_title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 1em;
+  max-width: 800px;
+  text-align: center;
+}
+
+.speakers_text {
+  flex: 1;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 800px;
+  margin-top: 40px;
+  text-align: justify;
+  line-height: 32px;
+}
+
 /* SPONSORS */
+
+.speakers_background {
+  align-items: center;
+  background-color: #F4E5E8;
+  color: #363636;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+
+.speakers_title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 1em;
+  max-width: 800px;
+  text-align: center;
+}
+
+.speakers_text {
+  flex: 1;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 800px;
+  margin-top: 40px;
+  text-align: justify;
+  line-height: 32px;
+}
