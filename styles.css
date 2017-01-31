@@ -58,7 +58,7 @@ body {
 
 .banner_hashtag {
   font-size: 50px;
-  font-weight: 400;
+  font-weight: 800;
 }
 
 /* SOCIALS */
@@ -70,7 +70,7 @@ body {
 #socialicons .icon {
     color: #F6F6F6;
     display: inline-block;
-    font-size: 100px;
+    font-size: 75px;
     text-align: center;
     margin: 0 6px 5px;
 }
