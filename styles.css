@@ -22,11 +22,11 @@ li a {
   text-decoration: none;
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 18%;
+  width: 12%;
 }
 
 li a:hover {
-  background-color: #F78284;
+  background-color: #F0E7F1;
 }
 
 /* HOME */
