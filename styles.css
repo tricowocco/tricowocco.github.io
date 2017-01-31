@@ -115,6 +115,36 @@ body {
 
 /* ABOUT */
 
+.about_background {
+  align-items: center;
+  background-color: #F0E7F1;
+  color: #363636;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+
+.about_title {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 1em;
+  max-width: 800px;
+  text-align: center;
+}
+
+.about_text {
+  flex: 1;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 800px;
+  margin-top: 40px;
+  text-align: justify;
+  line-height: 32px;
+}
+
 /* REGISTRATION */
 
 /* SCHEDULE */
