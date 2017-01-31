@@ -175,6 +175,30 @@ body {
   text-align: center;
 }
 
+a.button {
+  appearance: none;
+  background: #F0E7F1;
+  border-radius: 5px;
+  border: solid 2px #00CECB;
+  box-shadow: none;
+  color: #EEEEEE;
+  display: inline-block;
+  font-size: 100px;
+  font-weight: 300;
+  letter-spacing: -1.07;
+  line-height: 1.8;
+  margin-top: 40px;
+  padding: 0 20px;
+  text-decoration: none;
+}
+
+/*
+a.button:focus {
+  outline: none
+}
+*/
+
+/*
 .registration_text {
   flex: 1;
   font-size: 20px;
@@ -184,6 +208,7 @@ body {
   text-align: justify;
   line-height: 32px;
 }
+*/
 
 /* SCHEDULE */
 
