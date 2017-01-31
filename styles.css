@@ -47,6 +47,7 @@ body {
 }
 
 .banner_title {
+  font-family: "Playfair Display", serif;
   color: #F6F6F6;
   font-size: 100px;
   font-weight: bold;
