@@ -252,6 +252,11 @@ a.button:hover {
   line-height: 32px;
 }
 
+.schedule_desc {
+  font-size: 20px;
+  font-style: italic;
+}
+
 /* SCHEDULE - TABLE */
 
 td {
